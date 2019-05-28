@@ -18,6 +18,8 @@ public class CalculateTwins {
         System.out.println("Enter finish number: ");
         finishNumber = scan.nextInt();
 
+        System.out.println("=====================");
+
         IntStream.range(initNumber, finishNumber).forEach(numbers::add);
 
         numbers.forEach(number -> {
