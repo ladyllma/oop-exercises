@@ -1,7 +1,8 @@
 public class Divisible {
 
     public static void main(String[] args) {
-        int[] numbers = new int[10];
+//        int[] numbers = new int[10];
+        int[] numbers = new int[20];
         int num = 1;
         boolean isAlwaysZero = false;
 
