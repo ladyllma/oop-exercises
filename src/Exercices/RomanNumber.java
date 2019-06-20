@@ -1,3 +1,5 @@
+package Exercices;
+
 import java.util.Scanner;
 
 public class RomanNumber {

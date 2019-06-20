@@ -1,3 +1,5 @@
+package Exercices;
+
 public class Likes {
 
     public static void main(String[] args) {

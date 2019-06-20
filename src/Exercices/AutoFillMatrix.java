@@ -1,3 +1,5 @@
+package Exercices;
+
 public class AutoFillMatrix {
 
     public static void main(String[] args) {

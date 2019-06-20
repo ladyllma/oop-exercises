@@ -1,4 +1,22 @@
+package Exercices;
+
 class Utils {
+//    int bubbleSort(int[] numbers){
+//        int aux = 0;
+//        int n = numbers.length;
+//
+//        for (int i = 0; i < n-1; i++)
+//            for (int j = 0; j < n-i-1; j++)
+//                if (numbers[j] > numbers[j+1])
+//                {
+//                    aux = numbers[j];
+//                    numbers[j] = numbers[j+1];
+//                    numbers[j+1] = aux;
+//                }
+//
+//        return aux;
+//    }
+
     boolean isPrime(int n) {
         int h = n / 2;
         boolean flag = true;

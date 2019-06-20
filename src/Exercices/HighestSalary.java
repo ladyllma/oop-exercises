@@ -1,3 +1,5 @@
+package Exercices;
+
 public class HighestSalary {
 
     private static String[] names = new String[20];
