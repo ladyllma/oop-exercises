@@ -1,4 +1,4 @@
-package Exercices;
+package P1.Exercices;
 
 class Utils {
 //    int bubbleSort(int[] numbers){
